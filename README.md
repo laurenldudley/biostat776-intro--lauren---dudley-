@@ -17,5 +17,3 @@ Through this course I hope to gain skills that help me be more efficient in my c
 ## Interesting website -- Purple Air 
 Attached is a link to a website called Purple Air. What is interesting about this website is that you can look at air quality around the world! I am currently using some of this data for my work and I think it is interesting to look at differences in air quality across the global. 
 ### https://map.purpleair.com/
-
-git init
